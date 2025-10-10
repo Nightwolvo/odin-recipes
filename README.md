@@ -1,4 +1,6 @@
 # odin-recipes
+The Odin Project: Recipes
+
 Basic recipe website
 
 Project: Build a recipe website using basic html skills that I've learned so far.
