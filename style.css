@@ -1,0 +1,85 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/*Home Page*/
+.main-title {
+    width: 400px;
+    margin: auto;
+    background-color: rgb(255, 237, 137);
+    border: 10px;
+    border-style: groove;
+    border-color: lightskyblue;
+    text-align: center;
+    font-family: "Serif", sans-serif; 
+    font-size: 50px;
+}
+
+.recipes {
+    display: block;
+    width: 250px;
+    margin: auto;
+    padding: 25px;
+    border: 3px;
+    border-style: dashed;
+    border-color: lightcoral;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+}
+
+/*Recipe Pages*/
+
+.home-link {
+    font-size: 40px;
+    padding: 5px;
+    border: 6px;
+    border-style: dotted;
+    border-color: lightskyblue;
+    background-color: aliceblue;
+}
+
+.picture {
+    display: block;
+    margin: auto;
+    border: 20px;
+    border-style: groove;
+    border-color: aquamarine;
+}
+
+.desc-head {
+    margin: 20px 50px;
+    font-size: 50px;
+}
+
+.desc {
+    width: 1200px;
+    margin: 20px 50px;
+    font-size: 25px;
+}
+
+
+.ingreds-head {
+    margin: 20px 50px;
+    font-size: 50px;
+
+}
+
+.ingreds {
+    margin: 20px 50px;
+    font-size: 25px;
+
+}
+
+.step-head {
+    margin: 20px 50px;
+    font-size: 50px;
+
+}
+
+.steps {
+    width: 1500px;
+    font-size: 25px;
+    margin: 20px 50px;
+}
